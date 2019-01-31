@@ -18,7 +18,7 @@
   left:0px;
   top:185px;
   width:1180px;
-  height:120px;
+  height:80px;
 }
 #u39_img {
   border-width:0px;
@@ -71,10 +71,9 @@
 #u40_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:11px;
+  width:940px;
   word-wrap:break-word;
 }
 #u41_img {
@@ -138,66 +137,10 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:237px;
-  height:41px;
-}
-#u43 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:80px;
-  width:236px;
-  height:40px;
-  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC';
-  font-weight:500;
-  font-style:normal;
-  text-align:left;
-}
-#u43_text {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:11px;
-  width:232px;
-  word-wrap:break-word;
-}
-#u44_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:945px;
-  height:41px;
-}
-#u44 {
-  border-width:0px;
-  position:absolute;
-  left:236px;
-  top:80px;
-  width:944px;
-  height:40px;
-  font-family:'PingFang-SC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  text-align:left;
-}
-#u44_text {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:11px;
-  width:940px;
-  word-wrap:break-word;
-}
-#u45_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
   width:1181px;
   height:46px;
 }
-#u45 {
+#u43 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -210,7 +153,7 @@
   font-size:14px;
   text-align:left;
 }
-#u45_text {
+#u43_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -218,7 +161,7 @@
   width:1176px;
   word-wrap:break-word;
 }
-#u46_img {
+#u44_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -226,7 +169,7 @@
   width:1181px;
   height:46px;
 }
-#u46 {
+#u44 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -239,7 +182,7 @@
   font-size:14px;
   text-align:left;
 }
-#u46_text {
+#u44_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -247,7 +190,7 @@
   width:1176px;
   word-wrap:break-word;
 }
-#u47_img {
+#u45_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -255,7 +198,7 @@
   width:1181px;
   height:41px;
 }
-#u47 {
+#u45 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -268,12 +211,11 @@
   font-size:14px;
   text-align:left;
 }
-#u47_text {
+#u45_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:10px;
+  width:1176px;
   word-wrap:break-word;
 }
